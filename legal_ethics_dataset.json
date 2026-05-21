@@ -1,0 +1,117 @@
+{
+  "honesty": {
+    "keywords": ["lie", "false", "truth", "mislead", "fake", "hide evidence", "wrong statement", "cheat", "dishonest"],
+    "issue_name": "Honesty / Truthfulness",
+
+    "pros": [
+      "Maintains fairness and integrity in the justice system.",
+      "Protects the lawyer from professional misconduct and ethical complaints.",
+      "Improves credibility before the court and strengthens lawful advocacy."
+    ],
+    "cons": [
+      "The client may feel unsupported if their desired strategy is rejected.",
+      "The lawyer may face short-term pressure, disagreement, or loss of the client.",
+      "In some cases, the legal position may appear weaker when false claims are not used."
+    ],
+    "legal_risks": [
+      "False representation may lead to legal penalties or disciplinary action.",
+      "The lawyer may face bar council complaints or allegations of misconduct.",
+      "Dishonest conduct can seriously damage professional reputation and case credibility."
+    ]
+   
+  },
+
+  "confidentiality": {
+    "keywords": ["confidential", "secret", "private", "disclose", "client info", "sensitive information", "privacy"],
+    "issue_name": "Confidentiality",
+    
+    "pros": [
+      "Builds trust and strengthens the lawyer-client relationship.",
+      "Protects sensitive legal and personal information from misuse.",
+      "Supports professional ethics and responsible case handling."
+    ],
+    "cons": [
+      "Maintaining secrecy can become difficult if public safety is involved.",
+      "The lawyer may face moral pressure when confidential information suggests harm.",
+      "Balancing privacy and legal duty may create ethical confusion."
+    ],
+    "legal_risks": [
+      "Improper disclosure may create liability and ethical complaints.",
+      "Failure to act in high-risk situations may create professional or legal consequences.",
+      "Mismanagement of confidential records may affect the case and client trust."
+    ]
+  },
+
+  "conflict_of_interest": {
+    "keywords": ["conflict", "interest", "two clients", "bias", "same matter", "opposite party"],
+    "issue_name": "Conflict of Interest",
+    "guidance": [
+      "A lawyer must avoid representing interests that conflict in a way that harms fairness or loyalty.",
+      "Conflict of interest should be identified early to maintain impartiality and ethical compliance.",
+      "Professional independence and unbiased judgment are essential in legal representation."
+    ],
+    "pros": [
+      "Avoiding conflicts improves fairness and public confidence.",
+      "Protects the lawyer from accusations of bias or divided loyalty.",
+      "Strengthens ethical decision-making and professional credibility."
+    ],
+    "cons": [
+      "The lawyer may need to refuse or withdraw from a profitable matter.",
+      "There may be inconvenience in transferring or reorganizing the case.",
+      "The decision can disappoint one or more clients."
+    ],
+    "legal_risks": [
+      "Undisclosed conflicts may lead to disciplinary action or case disqualification.",
+      "The lawyer’s decisions may be challenged as biased or unfair.",
+      "Professional reputation can be affected if conflict handling is poor."
+    ],
+    "recommendations": [
+      "Check whether informed consent is ethically valid in the situation.",
+      "Avoid acting for both sides when independent judgment is compromised.",
+      "Maintain clear documentation of conflict checks and decisions."
+    ]
+  },
+
+  "duty_to_court": {
+    "keywords": ["court", "judge", "evidence", "witness", "tamper", "mislead court", "fabricate"],
+    "issue_name": "Duty to Court and Justice",
+    
+    "pros": [
+      "Supports justice, due process, and institutional integrity.",
+      "Protects the lawyer from serious misconduct allegations.",
+      "Promotes lawful and ethical advocacy."
+    ],
+    "cons": [
+      "The client may resist ethical advice or seek another representative.",
+      "The lawyer may face pressure in emotionally or financially difficult cases.",
+      "Strict compliance can make case strategy more challenging."
+    ],
+    "legal_risks": [
+      "Tampering or misleading the court can lead to severe legal consequences.",
+      "Professional sanctions may arise from unethical conduct toward the court.",
+      "Such conduct can seriously affect future legal practice and trust."
+    ]
+  },
+
+  "default": {
+    "keywords": [],
+    "issue_name": "General Legal Ethical Situation",
+   
+    "pros": [
+      "Encourages responsible and structured decision-making.",
+      "Improves awareness of ethical dimensions in legal practice.",
+      "Helps the user think critically before acting."
+    ],
+    "cons": [
+      "The situation may not have a single clear answer.",
+      "A wrong judgment can create legal or professional complications.",
+      "Ethical dilemmas often involve uncertainty and pressure."
+    ],
+    "legal_risks": [
+      "Misjudgment may lead to legal, ethical, or professional consequences.",
+      "Poor handling can affect credibility and decision quality.",
+      "Lack of documentation or caution may increase risk."
+    ]
+    
+  }
+}
